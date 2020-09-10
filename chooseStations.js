@@ -13,7 +13,7 @@ const chooseStations = validStations => {
       } 
     }
   }
- return results;
+  return results;
 }
 
 
